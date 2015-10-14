@@ -5,6 +5,8 @@ The goal of this work shop is to learn use a combination of mocking, random test
     git clone https://github.com/CSC-DevOps/TestGeneration.git
     cd TestGeneration
     npm install
+    nvm use 0.12.7
+    
 
 Directory Contents:
 
