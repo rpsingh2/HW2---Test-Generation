@@ -1,5 +1,5 @@
 TN:
-SF:/home/raman/HW2/TestGeneration/test.js
+SF:/home/raman/HW2---Test-Generation/test.js
 FNF:0
 FNH:0
 DA:1,1
@@ -299,7 +299,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:/home/raman/HW2/TestGeneration/subject.js
+SF:/home/raman/HW2---Test-Generation/subject.js
 FN:3,inc
 FN:12,weird
 FN:40,fileTest
